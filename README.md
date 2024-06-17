@@ -4,8 +4,8 @@
 Hi there! 👋 I'm Jet Chiang, Engineering Science student at the University of Toronto passionate about biomedical engineering, computer science, and finance. I love to work with people in emerging fields to explore the frontiers of technology and make a positive impact!
 
 ## Skills
-- **Programming Languages**: Python, C++, C, JavaScript, HTML, CSS, SQL, Swift/SwiftUI
-- **Frameworks and Tools**: Node, 
+- **Programming Languages**: Python, C++, C, JavaScript, HTML, CSS, SQL, Swift
+- **Frameworks and Tools**: Node, Express, Firebase, SwiftUI
 - **Other Skills (non-technical)**: Presentation and communication, consulting, research and analysis, project management
 
 ## Projects
