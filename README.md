@@ -9,7 +9,7 @@ Hi there! 👋 I'm Jet Chiang, Engineering Science student at the University of 
 - **Other Skills (non-technical)**: Presentation and communication, consulting, research and analysis, project management
 
 ## Projects
-Here is the most recent project I've been working on (You can see all previous projects and experiences in my LinkedIn profile below):
+Here is the most recent project I've been working on (You can see all previous projects and experiences on my LinkedIn):
 
 ### WeDream -- Where Dreamers Connect
 WeDream offers an innovative solution to improve sleep for millions who struggle with rest and suffer its consequences. By leveraging gamification and social networking, WeDream motivates users to develop disciplined and regular sleep routines. The project is in its final development phase.
