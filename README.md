@@ -7,7 +7,7 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 - **Programming Languages**: Python, C++, C, JavaScript, HTML, CSS, SQL, Swift
 - **Frameworks and Libraries**: Node, Express, Firebase, SwiftUI, Numpy, Tensorflow, Pytorch, Matplotlib
 - **Software Development**: CI/CD, Software Testing, Shell Scripting, Workflow Automation
-- **Other tools**: Jira, Gerrit, Jenkins, Doxygen, CMock/Unity, Makefile
+- **Other tools**: Jira, Gerrit, Jenkins, Doxygen, CMock/Unity, GNU Make/Makefile
 - **Other Skills**: Agile Methodologies, Presentation, Strategic/ Management Consulting, Academic Research, Project Management
 
 ## Projects
