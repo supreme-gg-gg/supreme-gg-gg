@@ -17,7 +17,7 @@ The following list shows the most recent 3 projects I've been working on, the re
 |---|---|---|---|---|
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
 |Financial ML|Researching the application of various state-of-the-art deep-learning based ML approahces in financial market.| Python, Pytorch, Tensorflow, Pandas, Numpy | _coming soon!_ |WIP (60%)|
-|MLock|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Maintenance|
+|Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Maintenance|
 
 ## Contact Me
 - **Email**: jetjiang.ez@gmail.com
