@@ -16,7 +16,7 @@ The following list shows the most recent 3 projects I've been working on, the re
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
-|Financial ML|Research & implement various state-of-the-art deep learning and reinforcement learning models in quant finance.| Python, Pytorch, Tensorflow, Pandas, Gymnasium | _coming soon!_ |[Work In Progress (70%)](https://github.com/supreme-gg-gg/financial-ml)|
+|Financial ML|Research & implement various state-of-the-art deep learning and reinforcement learning models in quant finance.| Python, Pytorch, Tensorflow, Pandas, Gymnasium | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|Work In Progress (70%)|
 |Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Maintenance|
 
 ## Contact Me
