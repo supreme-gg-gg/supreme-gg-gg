@@ -5,23 +5,25 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 
 ## Skills
 - **Programming Languages**: Python, C++, C, JavaScript, HTML, CSS, SQL, Swift
-- **Frameworks and Libraries**: Node, Express, Firebase, SwiftUI, Numpy, Tensorflow, Pytorch, Matplotlib, Scikit-learn
+- **AI/ML & Data Science Libraries**: Numpy, Tensorflow, Pytorch, Matplotlib, Scikit-learn, Scipy
+- **Full-Stack Frameworks**: Node, Express, Firebase, SwiftUI, Flask, React
 - **Software Development**: CI/CD, Software Testing, Shell Scripting, Workflow Automation
-- **Other tools**: Jira, Gerrit, Jenkins, Doxygen, CMock/Unity, GNU Make/Makefile
+- **Other tools**: Jira, Gerrit, Jenkins, Doxygen, CMock/Unity, GNU Make/Makefile, ROS, Linux, Docker
 - **Other Skills**: Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management
 
 ## Projects
-The following list shows the most recent 3 projects I've been working on, the rest are on my [LinkedIn][1]:
+The following list shows the projects I've been working on for the last 6 months, please browse my profile for others:
 
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
+|Scholar Link|AI-powered research analysis with graph theory and NLP to reveal connectivity and patterns.| Flask, React, BERT, Streamlit, OpenAI API | [scholar-link](https://github.com/supreme-gg-gg/we-dream)|Completed|
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
 |Financial ML|Research & implement various state-of-the-art deep learning and reinforcement learning models in quant finance.| Pytorch, Tensorflow, NumPy, Pandas, Gymnasium | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|Work In Progress (70%)|
 |Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Maintenance|
 
 ## Contact Me
-- **Email**: jetjiang.ez@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/jet-chiang
+- [Contact me through email](mailto:jetjiang.ez@gmail.com)
+- [Connect with me on LinkedIn!](https://www.linkedin.com/in/jet-chiang)
 
 ## Fun Facts
 - 🔭 Enthusiast in all sorts of science and math competitions (returned with numerous medals and honours)
