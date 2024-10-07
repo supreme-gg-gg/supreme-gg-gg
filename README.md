@@ -5,7 +5,7 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 
 ## Skills
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gg-gg&layout=compact&theme=dark)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gg-gg&layout=compact&theme=dark) -->
 
 - **Programming Languages**: Python, C++, C, JavaScript, HTML, CSS, SQL, Swift
 - **AI/ML & Data Science Libraries**: Numpy, Tensorflow, Pytorch, Matplotlib, Scikit-learn, Scipy
