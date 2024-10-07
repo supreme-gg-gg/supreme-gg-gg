@@ -4,6 +4,9 @@
 Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University of Toronto (2T8 + PEY) passionate about biomedical engineering, computer science, and finance. I love to work with people in emerging fields to explore the frontiers of technology and make a positive impact!
 
 ## Skills
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gg-gg&layout=compact&theme=dark)
+
 - **Programming Languages**: Python, C++, C, JavaScript, HTML, CSS, SQL, Swift
 - **AI/ML & Data Science Libraries**: Numpy, Tensorflow, Pytorch, Matplotlib, Scikit-learn, Scipy
 - **Full-Stack Frameworks**: Node, Express, Firebase, SwiftUI, Flask, React
@@ -20,6 +23,8 @@ The following list shows the projects I've been working on for the last 6 months
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
 |Financial ML|Research & implement various state-of-the-art deep learning and reinforcement learning models in quant finance.| Pytorch, Tensorflow, NumPy, Pandas, Gymnasium | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|Work In Progress (70%)|
 |Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Maintenance|
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=dark)
 
 ## Contact Me
 - [Contact me through email](mailto:jetjiang.ez@gmail.com)
