@@ -73,8 +73,6 @@ The following list shows the projects I've been working on for the last 6 months
 |Financial ML|Research & implement various state-of-the-art deep learning and reinforcement learning models in quant finance.| Pytorch, Tensorflow, NumPy, Pandas, Gymnasium | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|Work In Progress|
 |Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Completed|
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=dark)
-
 ## Contact Me
 - [Contact me through email](mailto:jetjiang.ez@gmail.com)
 - [Connect with me on LinkedIn!](https://www.linkedin.com/in/jet-chiang)
