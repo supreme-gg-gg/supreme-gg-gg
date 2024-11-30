@@ -3,6 +3,8 @@
 ## About Me
 Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University of Toronto (2T8 + PEY) passionate about biomedical engineering, machine intelligence, and finance. I love to work with people in emerging fields to explore the frontiers of technology and make a positive impact!
 
+![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=radical)
+
 ## Skills
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gg-gg&layout=compact&theme=dark) -->
