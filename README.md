@@ -43,6 +43,9 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 ![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 
 - **Software Development Tools**
 
@@ -55,7 +58,7 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-000080?style=for-the-badge&logo=doxygen&logoColor=white)
 ![CMock/Unity](https://img.shields.io/badge/CMock/Unity-00599C?style=for-the-badge&logo=c&logoColor=white)
-![GNU Make](https://img.shields.io/badge/GNU_Make-3A3A3A?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
