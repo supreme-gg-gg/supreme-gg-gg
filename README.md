@@ -1,7 +1,7 @@
 # Hello World
 
 ## About Me
-Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University of Toronto (2T8 + PEY) passionate about biomedical engineering, machine intelligence, and finance. I love to work with people in emerging fields to explore the frontiers of technology and make a positive impact!
+Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University of Toronto (2T8 + PEY). I'm passionate about neurotechnology, machine intelligence, and quantitative finance. Driven by curiosity and a commitment to innovation, I thrive on collaborating with others in emerging fields to push the boundaries of technology and create meaningful impact. In my downtime, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era.
 
 ![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=radical)
 
@@ -72,10 +72,11 @@ The following list shows the projects I've been working on for the last 6 months
 
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
-|Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini API | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Maintenance|
+|C++ ML Library|Built a complete deep learning library from scratch in C++ with MLP, CNN, RNN and PyTorch-like C++ API frontend. | C++, Eigen (linear algebra) | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Maintenance|
+|Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini API | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
 |Scholar Link|AI-powered research analysis with graph theory and NLP to reveal connectivity and patterns.| Flask, React, BERT, Streamlit, OpenAI API | [scholar-link](https://github.com/supreme-gg-gg/we-dream)|Completed|
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
-|Financial ML|Research & implement various state-of-the-art deep learning and reinforcement learning models in quant finance.| Pytorch, Tensorflow, NumPy, Pandas, Gymnasium | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|Work In Progress|
+|Financial ML|Practice deep reinforcement learning in Gym and Atari. Research applications in quantitaive finance.| Pytorch, Tensorflow, NumPy, Pandas, Gym | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|WIP in SGC|
 |Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Completed|
 
 ## Contact Me
