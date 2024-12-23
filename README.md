@@ -72,7 +72,7 @@ The following list shows the projects I've been working on for the last 6 months
 
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
-|C++ ML Library|Built a complete deep learning library from scratch in C++ with MLP, CNN, RNN and PyTorch-like C++ API frontend. | C++, Eigen (linear algebra) | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Maintenance|
+|C++ ML Library|Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | C++, Eigen (linear algebra) | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Maintenance|
 |Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini API | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
 |Scholar Link|AI-powered research analysis with graph theory and NLP to reveal connectivity and patterns.| Flask, React, BERT, Streamlit, OpenAI API | [scholar-link](https://github.com/supreme-gg-gg/we-dream)|Completed|
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
