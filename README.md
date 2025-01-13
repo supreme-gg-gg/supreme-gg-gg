@@ -74,7 +74,7 @@ The following list shows the projects I've been working on for the last 6 months
 |---|---|---|---|---|
 |C++ ML Library|Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | C++, Eigen (linear algebra) | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Maintenance|
 |Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini API | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
-|Scholar Link|AI-powered research analysis with graph theory and NLP to reveal connectivity and patterns.| Flask, React, BERT, Streamlit, OpenAI API | [scholar-link](https://github.com/supreme-gg-gg/we-dream)|Completed|
+|Scholar Link|AI-powered research analysis with graph theory and NLP to reveal connectivity and patterns.| Flask, React, BERT, Streamlit, OpenAI API | [scholar-link](https://github.com/supreme-gg-gg/scholar-link)|Completed|
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
 |Financial ML|Practice deep reinforcement learning in Gym and Atari. Research applications in quantitaive finance.| Pytorch, Tensorflow, NumPy, Pandas, Gym | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|WIP in SGC|
 |Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Completed|
