@@ -1,7 +1,9 @@
 # Hello World
 
 ## About Me
-Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University of Toronto (2T8 + PEY). I'm passionate about neurotechnology, machine intelligence, and quantitative finance. Driven by curiosity and a commitment to innovation, I thrive on collaborating with others in emerging fields to push the boundaries of technology and create meaningful impact. In my downtime, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era.
+Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about neurotechnology, BME, machine intelligence, and quant finance. Driven by curiosity and a commitment to innovation, I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. 
+
+Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
 
 ![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=radical)
 
@@ -9,7 +11,7 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gg-gg&layout=compact&theme=dark) -->
 
-- **Programming Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -21,7 +23,7 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **AI/ML & Data Science Libraries**
+### AI/ML & Data Science
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -33,7 +35,7 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-- **Full-Stack Frameworks**
+### Full-stack Frameworks
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -49,14 +51,13 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 
-- **Software Development Tools**
+### Software Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Testing-46a2f1?style=for-the-badge&logo=pytest&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Gerrit](https://img.shields.io/badge/Gerrit-00A9E0?style=for-the-badge&logo=gerrit&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-000080?style=for-the-badge&logo=doxygen&logoColor=white)
 ![CMock/Unity](https://img.shields.io/badge/CMock/Unity-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -65,10 +66,11 @@ Hi there! 👋 I'm Jet Chiang, an Engineering Science student at the University 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Other Skills**: Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management
+### Others
+Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management, Public Speaking
 
 ## Projects
-The following list shows the projects I've been working on for the last 6 months, please browse my profile for others:
+_This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project)._
 
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
@@ -76,7 +78,7 @@ The following list shows the projects I've been working on for the last 6 months
 |Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini API | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
 |Scholar Link|AI-powered research analysis with graph theory and NLP to reveal connectivity and patterns.| Flask, React, BERT, Streamlit, OpenAI API | [scholar-link](https://github.com/supreme-gg-gg/scholar-link)|Completed|
 |WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
-|Financial ML|Practice deep reinforcement learning in Gym and Atari. Research applications in quantitaive finance.| Pytorch, Tensorflow, NumPy, Pandas, Gym | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|WIP in SGC|
+|Financial ML|Practice deep reinforcement learning in Gym and Atari. Research applications in quantitaive finance.| Pytorch, Tensorflow, NumPy, Pandas, Gym | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|**WIP in SGC**|
 |Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Completed|
 
 ## Contact Me
@@ -90,7 +92,7 @@ The following list shows the projects I've been working on for the last 6 months
 ## Thanks for Visiting!
 Feel free to reach out if you want to collaborate on any projects or just chat about technology!
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/supreme-gg-gg)
+[![GitHub followers](https://img.shields.io/github/followers/supreme-gg-gg?label=Follow&style=social)](https://github.com/supreme-gg-gg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][1]
 
 [1]:https://www.linkedin.com/in/jet-chiang/
