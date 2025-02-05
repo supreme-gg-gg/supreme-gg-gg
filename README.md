@@ -75,10 +75,10 @@ _This list is NOT regularly updated. Please view [my website](https://supreme-gg
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
 |Instagram CLI|The 7 Gateways to Brainrot are no more.| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |WIP|
-|MemoryMake|Turns single 2D images into immersive, navigable 3D worlds (w/ neural style transfer) to relive your memories. | Python, PyTorch, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
-|TaskForce|Create and join study sessions to roast others or brag about locking in using GenAI and system analytics.| Python, Flask, Redis, Firebase, Electron|[task-force](https://github.com/nicholasching/TaskForce/tree/main) |Completed|
+|MemoryMake|Turns single 2D images into immersive, navigable 3D worlds (w/ neural style transfer) to relive memories. | Python, PyTorch, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
+|TaskForce|Create and join study sessions to roast others or brag about locking in using GenAI.| Python, Flask, Redis, Firebase, Electron|[task-force](https://github.com/nicholasching/TaskForce/tree/main) |Completed|
 |C++ ML Library|Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | C++, Eigen | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Completed|
-|Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
+|Corpo-lingo|Level up Corporate Jargons with competitive card game and practice scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
 
 ## Project Ideas
 
