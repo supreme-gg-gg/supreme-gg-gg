@@ -69,17 +69,24 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ### Others
 Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management, Public Speaking
 
-## Projects
-_This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project)._
+## Recent Projects
+_This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project). The list only shows the most recent 5 projects._
 
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
-|C++ ML Library|Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | C++, Eigen (linear algebra) | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Maintenance|
-|Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini API | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
-|Scholar Link|AI-powered research analysis with graph theory and NLP to reveal connectivity and patterns.| Flask, React, BERT, Streamlit, OpenAI API | [scholar-link](https://github.com/supreme-gg-gg/scholar-link)|Completed|
-|WeDream|Leverage gamification and social networking to motivate disciplined and regular sleep routines.| Swift, SwiftUI, XCode, Firebase, AppleSDK | [we-dream](https://github.com/supreme-gg-gg/we-dream)|Completed|
-|Financial ML|Practice deep reinforcement learning in Gym and Atari. Research applications in quantitaive finance.| Pytorch, Tensorflow, NumPy, Pandas, Gym | [financial-ml](https://github.com/supreme-gg-gg/financial-ml)|**WIP in SGC**|
-|Block ML|Accelerate prototyping, designing, and deploying ML models with block-based programming.| Python, JavaScript, node.js, Keras, Blockly, webpack | [block-ml](https://github.com/supreme-gg-gg/block-ml)|Completed|
+|Instagram CLI|The 7 Gateways to Brainrot are no more.| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |WIP|
+|MemoryMake|Turns single 2D images into immersive, navigable 3D worlds (w/ neural style transfer) to relive your memories. | Python, PyTorch, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
+|TaskForce|Create and join study sessions to roast others or brag about locking in using GenAI and system analytics.| Python, Flask, Redis, Firebase, Electron|[task-force](https://github.com/nicholasching/TaskForce/tree/main) |Completed|
+|C++ ML Library|Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | C++, Eigen | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Completed|
+|Corpo-lingo|Level up Corporate Jargons with competitive card game and practice in scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
+
+## Project Ideas
+
+I am open to collaboration for any cool projects, feel free to connect with me on **LinkedIn**! Here is a public list of project ideas looking for collaborators:
+
+|Name|Description|Technologies|
+|--|--|--|
+|Circuit Solver|Turn hand drawn circuit diagrams into animated renderings and solve them numerically.|TBC|
 
 ## Contact Me
 - [Contact me through email](mailto:jetjiang.ez@gmail.com)
