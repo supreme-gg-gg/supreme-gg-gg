@@ -26,30 +26,30 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ### AI/ML & Data Science
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Full-stack Frameworks
 
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 
 ### Software Development Tools
 
@@ -75,10 +75,10 @@ _This list is NOT regularly updated. Please view [my website](https://supreme-gg
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
 |Instagram CLI|The 7 Gateways to Brainrot are no more.| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |WIP|
-|MemoryMake|Turns single 2D images into immersive, navigable 3D worlds (w/ neural style transfer) to relive memories. | Python, PyTorch, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
-|TaskForce|Create and join study sessions to roast others or brag about locking in using GenAI.| Python, Flask, Redis, Firebase, Electron|[task-force](https://github.com/nicholasching/TaskForce/tree/main) |Completed|
+|Tremor Prediction|EEG preprocessing and feature extraction for ML prediction of Parkinson's disease hand tremors.| Scipy, MNE Python, Scikit-learn | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
+|MemoryMake|Turns single 2D images into immersive, navigable 3D worlds (w/ neural style transfer) to relive memories. | PyTorch, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
+|TaskForce|Create and join study sessions to roast others or brag about locking in using GenAI.| Flask, Redis, Firebase, Websocket, Electron |[task-force](https://github.com/nicholasching/TaskForce/tree/main) |Completed|
 |C++ ML Library|Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | C++, Eigen | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Completed|
-|Corpo-lingo|Level up Corporate Jargons with competitive card game and practice scenarios powered by LLM. | React, Node, Express, Socket.io, Gemini | [corpo-lingo](https://github.com/supreme-gg-gg/corpo-lingo)|Completed|
 
 ## Project Ideas
 
