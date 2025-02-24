@@ -59,7 +59,7 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Testing-46a2f1?style=for-the-badge&logo=pytest&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/UNIX-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-000080?style=for-the-badge&logo=doxygen&logoColor=white)
@@ -68,6 +68,7 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Others
 Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management, Public Speaking
