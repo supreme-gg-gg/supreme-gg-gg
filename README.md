@@ -1,7 +1,7 @@
 # Hello World
 
 ## About Me
-Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about neurotechnology, BME, machine intelligence, and quant finance. Driven by curiosity and a commitment to innovation, I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. 
+Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about neurotechnology, BME, machine intelligence, and quant finance. Driven by curiosity and a commitment to innovation, I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
 
 Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
 
@@ -21,7 +21,7 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI/ML & Data Science
 
@@ -45,9 +45,11 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -59,6 +61,7 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Testing-46a2f1?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/UNIX-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
