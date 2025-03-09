@@ -19,10 +19,11 @@ Items in each category are ranked in the order of experience and proficiency.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI/ML & Data Science
@@ -64,9 +65,11 @@ Items in each category are ranked in the order of experience and proficiency.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![GTest](https://img.shields.io/badge/GTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/UNIX-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Software Testing](https://img.shields.io/badge/Testing-46a2f1?style=for-the-badge&logo=pytest&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -82,7 +85,8 @@ _This list is NOT regularly updated. Please view [my website](https://supreme-gg
 
 |Name|Description|Technologies|GitHub|Status|
 |---|---|---|---|---|
-|Instagram CLI|The 7 Gateways to Brainrot are no more.| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |WIP|
+|VSCode Cheerleader Extension|Your anime girl companion to coding to level up productivity|VSCode Extension API|Coming soon|WIP|
+|Instagram CLI|The 7 Gateways to Brainrot are no more.| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
 |Tremor Prediction|EEG preprocessing and feature extraction for ML prediction of Parkinson's disease hand tremors.| Scipy, MNE Python, Scikit-learn | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
 |MemoryMake|Turns single 2D images into immersive, navigable 3D worlds (w/ neural style transfer) to relive memories. | PyTorch, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
 |TaskForce|Create and join study sessions to roast others or brag about locking in using GenAI.| Flask, Redis, Firebase, Websocket, Electron |[task-force](https://github.com/nicholasching/TaskForce/tree/main) |Completed|
