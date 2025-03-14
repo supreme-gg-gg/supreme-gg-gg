@@ -1,7 +1,11 @@
 # Hello World
 
 ## About Me
-Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about neurotechnology, BME, machine intelligence, and quant finance. Driven by curiosity and a commitment to innovation, I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
+Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about machine intelligence, neurotechnology, quant finance, and robotics.
+
+I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. 
+
+In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
 
 Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
 
@@ -11,7 +15,7 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gg-gg&layout=compact&theme=dark) -->
 
-Items in each category are ranked in the order of experience and proficiency.
+**Items in each category are ranked in the order of experience and proficiency.**
 
 ### Languages
 
@@ -31,10 +35,10 @@ Items in each category are ranked in the order of experience and proficiency.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
@@ -81,16 +85,17 @@ Items in each category are ranked in the order of experience and proficiency.
 Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management, Public Speaking
 
 ## Recent Projects
-_This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project). The list only shows the most recent 5 projects._
+_This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project). The list only shows IN PROGRESS or ACTIVELY MAINTAINED projects._
 
-|Name|Description|Technologies|GitHub|Status|
+|Name|Description|My Technologies|GitHub|Status|
 |---|---|---|---|---|
-|VSCode Cheerleader Extension|Your anime girl companion to coding to level up productivity|VSCode Extension API|Coming soon|WIP|
+|VSCode Cheerleader|The world's first AI anime girl companion to coding|VSCode Extension API|Coming soon|WIP|
 |Instagram CLI|The 7 Gateways to Brainrot are no more.| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
-|Tremor Prediction|EEG preprocessing and feature extraction for ML prediction of Parkinson's disease hand tremors.| Scipy, MNE Python, Scikit-learn | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
-|MemoryMake|Turns single 2D images into immersive, navigable 3D worlds (w/ neural style transfer) to relive memories. | PyTorch, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
-|TaskForce|Create and join study sessions to roast others or brag about locking in using GenAI.| Flask, Redis, Firebase, Websocket, Electron |[task-force](https://github.com/nicholasching/TaskForce/tree/main) |Completed|
-|C++ ML Library|Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | C++, Eigen | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Completed|
+|PD Tremor Prediction|EEG data analysis for Parkinson's hand tremors prediction using traditional ML and deep learning.| Scipy, MNE Python, Scikit-learn, PyTorch | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
+|DDPG Portfolio Management|Policy Gradient RL with EIIE topology (CNN + LSTM actor/critic) for stock portfolio. | PyTorch, OpenAI Gym | Coming soon | WIP (Design team) |
+|MapMatch|RAG-inspired roommate matching using semantic similarity and dynamic graphs. | AWS Bedrock, SageMaker, Express, Supabase, PostgreSQL|Private project| WIP|
+|MemoryMake|Turns single 2D images into immersive, navigable, stylistic 3D worlds to relive your memories. | PyTorch, Tensorflow, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
+|Eidos|Complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN | C++, Eigen | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Maintenance|
 
 ## Project Ideas
 
