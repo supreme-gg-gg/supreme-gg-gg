@@ -3,17 +3,20 @@
 ## About Me
 Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about machine intelligence, neurotechnology, quant finance, and robotics.
 
-I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. 
-
-In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
+I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
 
 Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
 
 ![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=radical)
 
-## Skills
+## Experience
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gg-gg&layout=compact&theme=dark) -->
+* Current Software Engineering Intern at Savi Finance (Toronto based fintech company)
+* Previous Software Engineering Intern at Ericsson
+* Incoming ML Research @ National University of Singapore
+* Incoming Software Engineering at a UofT-based fintech startup
+
+## Skills
 
 **Items in each category are ranked in the order of experience and proficiency.**
 
@@ -43,24 +46,34 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### Full-stack Frameworks
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+### Frontend
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Software Development Tools
 
@@ -72,7 +85,6 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
 ![GTest](https://img.shields.io/badge/GTest-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/UNIX-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -104,6 +116,7 @@ I am open to collaboration for any cool projects, feel free to connect with me o
 |Name|Description|Technologies|
 |--|--|--|
 |Circuit Solver|Turn hand drawn circuit diagrams into animated renderings and solve them numerically.|TBC|
+|Photo to Film|Auto select and apply photography techniques to turn ordinary smartphone photo into film-like scenes.|TBC|
 
 ## Contact Me
 - [Contact me through email](mailto:jetjiang.ez@gmail.com)
