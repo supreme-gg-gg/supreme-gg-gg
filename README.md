@@ -102,12 +102,12 @@ _This list is NOT regularly updated. Please view [my website](https://supreme-gg
 |Name|Description|My Technologies|GitHub|Status|
 |---|---|---|---|---|
 |VSCode Cheerleader|The world's first AI anime girl companion to coding|VSCode Extension API|Coming soon|WIP|
+|Bonsense|iOS app integrating computer vision and IoT sensor in bonsai soil moisture analysis|SwiftUI, iOS SDK, Scikit-learn, CoreML, BLE, RasPi| Maintenance|
 |Instagram CLI|The 7 Gateways to Brainrot are no more| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
 |PD Tremor Prediction|EEG analysis for Parkinson's hand tremors prediction w/ traditional ML & deep learning| Scipy, MNE Python, Scikit-learn, PyTorch | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
 |DDPG Portfolio Management|Policy Gradient RL with EIIE topology (CNN + LSTM actor/critic) for stock portfolio| PyTorch, OpenAI Gym | Coming soon | WIP (Design team) |
 |MapMatch|RAG-inspired roommate matching using semantic similarity and dynamic graphs | AWS, Express, Supabase, PostgreSQL|Private project| WIP|
 |MemoryMake|Turns single 2D images into immersive, navigable, stylistic 3D worlds to relive your memories | PyTorch, Tensorflow, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
-|Eidos|Complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN | C++, Eigen | [deep-learning](https://github.com/supreme-gg-gg/deep-learning-cpp)|Maintenance|
 
 ## Project Ideas
 
@@ -116,7 +116,8 @@ I am open to collaboration for any cool projects, feel free to connect with me o
 |Name|Description|Technologies|
 |--|--|--|
 |Circuit Solver|Turn hand drawn circuit diagrams into animated renderings and solve them numerically.|TBC|
-|Photo to Film|Auto select and apply photography techniques to turn ordinary smartphone photo into film-like scenes.|TBC|
+|Photo to Film|Turn ordinary smartphone photo into film-like scenes.|TBC|
+|Diagraming MCP|Diagram graphics engine from scratch with MCP interface for LLM agents|MCP, Go/C++|
 
 ## Contact Me
 - [Contact me through email](mailto:jetjiang.ez@gmail.com)
