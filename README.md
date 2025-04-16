@@ -116,7 +116,7 @@ I am open to collaboration for any cool projects, feel free to connect with me o
 |Name|Description|Technologies|
 |--|--|--|
 |Circuit Solver|Turn hand drawn circuit diagrams into animated renderings and solve them numerically.|TBC|
-|Photo to Film|Turn ordinary smartphone photo into film-like scenes.|TBC|
+|Photo to Film|Turn ordinary smartphone photo into film-like scenes (possibly a MCP!).|TBC|
 |Diagraming MCP|Diagram graphics engine from scratch with MCP interface for LLM agents|MCP, Go/C++|
 
 ## Contact Me
