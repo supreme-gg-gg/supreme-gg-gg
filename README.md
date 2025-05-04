@@ -1,7 +1,7 @@
 # Hello World
 
 ## About Me
-Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about machine intelligence, neurotechnology, quant finance, and robotics.
+Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about machine intelligence, neurotechnology, and robotics.
 
 I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
 
@@ -11,10 +11,9 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 
 ## Experience
 
-* Current SWE Intern @ Savi Finance (Toronto based fintech company)
-* Prev SWE Intern @ Ericsson
-* Incoming ML Researcher @ National University of Singapore
-* Incoming SWE @ UofT-based fintech startup
+* ML Researcher @ National University of Singapore
+* SWE @ UofT-based fintech startup
+* Prev SWE Intern @ Ericsson, Savi Finance (Toronto based fintech company)
 
 ## Skills
 
@@ -101,11 +100,11 @@ _This list is NOT regularly updated. Please view [my website](https://supreme-gg
 
 |Name|Description|My Technologies|GitHub|Status|
 |---|---|---|---|---|
-|VSCode Cheerleader|The world's first AI anime girl companion to coding|VSCode Extension API, HuggingFace, ElevenLabs|[vscode-cheerleader](https://github.com/endernoke/vscode-cheerleader)|WIP|
+|VSCode Cheerleader|Supercharge your dev experience with an anime coding companion|VSCode Extension API, Electron, ElevenLabs|[vscode-cheerleader](https://github.com/georgeistes/vscode-cheerleader)|Maintenance|
 |Bonsense|iOS app integrating computer vision and IoT sensor in bonsai soil moisture analysis|SwiftUI, iOS SDK, Scikit-learn, CoreML, BLE, RasPi| [bonsense](https://github.com/supreme-gg-gg/bonsense) | Maintenance|
 |Instagram CLI|The 7 Gateways to Brainrot are no more| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
 |PD Tremor Prediction|EEG analysis for Parkinson's hand tremors prediction w/ traditional ML & deep learning| Scipy, MNE Python, Scikit-learn, PyTorch | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
-|DDPG Portfolio Management|Policy Gradient RL with EIIE topology (CNN + LSTM actor/critic) for stock portfolio| PyTorch, OpenAI Gym | Coming soon | WIP (Design team) |
+|DDPG Portfolio Management|Policy Gradient RL with EIIE topology (CNN + LSTM actor/critic) for stock portfolio| PyTorch, OpenAI Gym | Coming soon | Maintenance (Design team) |
 |MapMatch|RAG-inspired roommate matching using semantic similarity and dynamic graphs | AWS, Express, Supabase, PostgreSQL|Private project| WIP|
 |MemoryMake|Turns single 2D images into immersive, navigable, stylistic 3D worlds to relive your memories | PyTorch, Tensorflow, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
 
