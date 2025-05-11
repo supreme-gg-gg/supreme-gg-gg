@@ -1,7 +1,7 @@
 # Hello World
 
 ## About Me
-Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about machine intelligence, neurotechnology, and robotics.
+Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics.
 
 I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
 
@@ -11,9 +11,10 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 
 ## Experience
 
+* Open Source Developer @ Google Deepmind (Google Summer of Code 2025)
 * ML Researcher @ National University of Singapore
-* SWE @ UofT-based fintech startup
-* Prev SWE Intern @ Ericsson, Savi Finance (Toronto based fintech company)
+* SWE @ Carbon Array (UofT Hatchery backed startup)
+* Prev SWE Intern @ Ericsson, Savi Finance
 
 ## Skills
 
