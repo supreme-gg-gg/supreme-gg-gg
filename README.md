@@ -97,20 +97,25 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 ### Others
 Agile Methodologies, Entrepreneurship, Strategic/ Management Consulting, Research, Project Management, Public Speaking
 
-## Recent Projects
+<details>
+
+<summary><h3>Recent Projects</h3></summary>
+
 _This list is NOT regularly updated. Please view [my website](https://supreme-gg-gg.github.io) for more details (including in-depth description of each project). The list only shows IN PROGRESS or ACTIVELY MAINTAINED projects._
 
 |Name|Description|My Technologies|GitHub|Status|
 |---|---|---|---|---|
+|Gemma Studio|Web application + Cloud infrastructure for no-code accessible text and multimodal Gemma3 fine tuning| Streamlit, HuggingFace, PyTorch, Unsloth, GCP | Coming Soon | WIP (DeepMind)|
 |VSCode Cheerleader|Supercharge your dev experience with an anime coding companion|VSCode Extension API, Electron, ElevenLabs|[vscode-cheerleader](https://github.com/georgeistes/vscode-cheerleader)|Maintenance|
 |Bonsense|iOS app integrating computer vision and IoT sensor in bonsai soil moisture analysis|SwiftUI, iOS SDK, Scikit-learn, CoreML, BLE, RasPi| [bonsense](https://github.com/supreme-gg-gg/bonsense) | Maintenance|
 |Instagram CLI|The 7 Gateways to Brainrot are no more| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
 |PD Tremor Prediction|EEG analysis for Parkinson's hand tremors prediction w/ traditional ML & deep learning| Scipy, MNE Python, Scikit-learn, PyTorch | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
-|DDPG Portfolio Management|Policy Gradient RL with EIIE topology (CNN + LSTM actor/critic) for stock portfolio| PyTorch, OpenAI Gym | Coming soon | Maintenance (Design team) |
 |MapMatch|RAG-inspired roommate matching using semantic similarity and dynamic graphs | AWS, Express, Supabase, PostgreSQL|Private project| WIP|
-|MemoryMake|Turns single 2D images into immersive, navigable, stylistic 3D worlds to relive your memories | PyTorch, Tensorflow, FastAPI, Open3D, Three.js | [memory-make](https://github.com/nelonmelons/memorymake/tree/main/backend) |Maintenance|
 
-## Project Ideas
+</details>
+
+<details>
+<summary><h3>Project Ideas</h3></summary>
 
 I am open to collaboration for any cool projects, feel free to connect with me on **LinkedIn**! Here is a public list of project ideas looking for collaborators:
 
@@ -119,6 +124,8 @@ I am open to collaboration for any cool projects, feel free to connect with me o
 |Circuit Solver|Turn hand drawn circuit diagrams into animated renderings and solve them numerically.|TBC|
 |Photo to Film|Turn ordinary smartphone photo into film-like scenes|TBC|
 |RAG Anything MCP|MCP tool to search and create RAG database for anything in the internet|MCP, Python|
+
+</details>
 
 ## Contact Me
 - [Contact me through email](mailto:jetjiang.ez@gmail.com)
