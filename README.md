@@ -1,6 +1,5 @@
 # Hello World
 
-## About Me
 Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend engineering, machine learning research, LLM (agents orchestration and fine tuning), cloud infrastructure, iOS development.
 
 Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
