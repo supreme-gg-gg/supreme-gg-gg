@@ -1,9 +1,7 @@
 # Hello World
 
 ## About Me
-Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics.
-
-I thrive on collaborating with others in emerging fields to push the boundaries of tech and create meaningful impact. In particular, I'm interested in BCIs and integrating artificial intelligence with biological intelligence. In additon, I have a wide range of experience working with full stack applications (specializing in backend engineering) that integrate machine learning and AI technologies.
+Hi there! 👋 I'm Jet Chiang, an **Engineering Science** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend engineering, machine learning research, LLM (agents orchestration and fine tuning), cloud infrastructure, iOS development.
 
 Outside of hackathons, design teams, and personal projects, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416)!!_
 
@@ -13,8 +11,7 @@ Outside of hackathons, design teams, and personal projects, I enjoy delving into
 
 * Open Source Developer @ Google Deepmind (Google Summer of Code 2025)
 * ML Researcher @ National University of Singapore
-* SWE @ Carbon Array (UofT Hatchery backed startup)
-* Prev SWE Intern @ Ericsson, Savi Finance
+* Prev SWE Intern @ Ericsson, MLE @ Savi Finance
 
 ## Skills
 
@@ -105,11 +102,10 @@ _This list is NOT regularly updated. Please view [my website](https://supreme-gg
 
 |Name|Description|My Technologies|GitHub|Status|
 |---|---|---|---|---|
-|Gemma Studio|Web application + Cloud infrastructure for no-code accessible text and multimodal Gemma3 fine tuning| Streamlit, HuggingFace, PyTorch, Unsloth, GCP | Coming Soon | WIP (DeepMind)|
+|Gemma Studio|Web application + Cloud infrastructure for no-code accessible text and multimodal Gemma3 fine tuning| Next.js, HuggingFace, PyTorch, Unsloth, GCP | Coming Soon | WIP (DeepMind)|
 |VSCode Cheerleader|Supercharge your dev experience with an anime coding companion|VSCode Extension API, Electron, ElevenLabs|[vscode-cheerleader](https://github.com/georgeistes/vscode-cheerleader)|Maintenance|
 |Bonsense|iOS app integrating computer vision and IoT sensor in bonsai soil moisture analysis|SwiftUI, iOS SDK, Scikit-learn, CoreML, BLE, RasPi| [bonsense](https://github.com/supreme-gg-gg/bonsense) | Maintenance|
 |Instagram CLI|The 7 Gateways to Brainrot are no more| Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/tree/main) |Maintenance|
-|PD Tremor Prediction|EEG analysis for Parkinson's hand tremors prediction w/ traditional ML & deep learning| Scipy, MNE Python, Scikit-learn, PyTorch | [pd-tremor](https://github.com/michaelzixizhou/parkinsons-tremor-detection) | WIP (Design Team) |
 |MapMatch|RAG-inspired roommate matching using semantic similarity and dynamic graphs | AWS, Express, Supabase, PostgreSQL|Private project| WIP|
 
 </details>
