@@ -1,6 +1,6 @@
 # Hello World
 
-Hi there! 👋 I'm Jet Chiang, a **Computer Engineering** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend, ML / DL research, LLM (post-training, agents orchestration, inference, SLM/VLM), cloud / cloud native, iOS development.
+Hi there! 👋 I'm Jet Chiang, a **Computer Engineering** student at the University of Toronto (2T8 + PEY). I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend, ML / DL research, LLM (post-training, agents orchestration, inference, SLM/VLM), cloud IaaS / cloud native, iOS development.
 
 When I'm not building cool stuff or grinding research, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416) and [goodreads](https://www.goodreads.com/user/show/166962144-jet-chiang)!!_
 
@@ -9,7 +9,7 @@ When I'm not building cool stuff or grinding research, I enjoy delving into clas
 ## Experience
 
 * SWE / OSS @ Cloud Native Computing Foundation -- Kagent (CNCF sandbox)
-* Open Source Developer @ Google Deepmind (Google Summer of Code 2025)
+* OSS @ Google Deepmind (Google Summer of Code 2025)
 * ML Researcher @ National University of Singapore
 * Prev SWE Intern @ Ericsson, MLE Intern @ Savi Finance
 
@@ -35,7 +35,6 @@ When I'm not building cool stuff or grinding research, I enjoy delving into clas
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Sk-learn](https://img.shields.io/badge/Sk--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
