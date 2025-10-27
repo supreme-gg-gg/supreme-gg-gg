@@ -1,17 +1,10 @@
-# Hello World
+# 👋 Hello World
 
-Hi there! 👋 I'm Jet Chiang, a second-year **Computer Engineering** student at the University of Toronto. I'm passionate about software engineering, machine intelligence, cognitive science, and robotics. Experienced in backend, ML / DL research, LLM (post-training, agents orchestration, inference, SLM/VLM), cloud IaaS / cloud native, iOS development.
+I'm a second-year **Computer Engineering** student at the University of Toronto, passionate about SWE, AI + robotics, and cognitive science, experienced in backend, ML / DL research, LLM (fine-tuning, agents, LLMOps, SLM/VLM), cloud IaaS / cloud native, iOS development, terminal UI.
 
-When I'm not building cool stuff or grinding research, I enjoy delving into classical literature, philosophy, and psychology, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416) and [goodreads](https://www.goodreads.com/user/show/166962144-jet-chiang)!!_
+Outside of tech I enjoy classical literature, history, and philosophy, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416) and [goodreads](https://www.goodreads.com/user/show/166962144-jet-chiang)!!_
 
 ![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=radical)
-
-## Experience
-
-* SWE / OSS @ Cloud Native Computing Foundation -- Kagent (CNCF sandbox)
-* OSS @ Google Deepmind (Google Summer of Code 2025)
-* ML Researcher @ National University of Singapore
-* Prev SWE Intern @ Ericsson, MLE Intern @ Savi Finance
 
 ## Skills
 
@@ -42,12 +35,12 @@ When I'm not building cool stuff or grinding research, I enjoy delving into clas
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Frontend
 
@@ -60,11 +53,10 @@ When I'm not building cool stuff or grinding research, I enjoy delving into clas
 ### Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Software Development Tools
 
@@ -76,8 +68,3 @@ When I'm not building cool stuff or grinding research, I enjoy delving into clas
 ![Bash Scripting](https://img.shields.io/badge/UNIX-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Actions](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-## Fun Facts
-- 🔭 Enthusiast in all sorts of science and math competitions (returned with numerous medals and honours)
-- 📚 Massive nerd in philosophy and enjoyer of reading classical literature
