@@ -4,7 +4,7 @@ I'm a second-year **Computer Engineering** student at the University of Toronto,
 
 Outside of tech I enjoy classical literature, history, and philosophy, exploring their connections to the human condition in our modern technological era. _Check out my [podcast](https://open.spotify.com/show/0ibO0UZOgBHXY2b87GbFmZ?si=531461607f8a4416) and [goodreads](https://www.goodreads.com/user/show/166962144-jet-chiang)!!_
 
-![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=radical)
+![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=dracula)
 
 ## Skills
 
